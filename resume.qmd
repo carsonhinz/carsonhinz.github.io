@@ -1,0 +1,6 @@
+---
+title: "Resume"
+---
+
+<iframe width="800" height="1000" src="Carson_Hinz_Resume.pdf"></iframe>
+
