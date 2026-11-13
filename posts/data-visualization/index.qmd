@@ -1,0 +1,37 @@
+---
+title: "Beyond the Box Score"
+author: "Carson Hinz, Watson Spear, Brandon Bright, Luke Anet"
+date: "2026-11-13"
+description: "An Excel analysis of NFL game data exploring home field advantage, game-time weather, and how oddsmakers react to wind."
+image: something.png
+format: html
+---
+
+## Team Members
+- [Carson Hinz](https://carsonhinz.github.io)
+- [Watson Spear](https://watsonspear.github.io)
+- [Brandon Bright](https://brandonbright.github.io)
+- [Luke Anet](https://lukeanet.github.io)
+
+## Data Set
+[What the data is, where it came from (link the source), how many records/what variables, and any cleaning you did.]
+
+## Question 1: [Write the question]
+
+**Why it's interesting:** [Why your team cared about this question.]
+
+**Excel analysis:** [Functions/tools used, e.g., pivot tables, SUMIFS, AVERAGEIFS, sorting/filtering, and what the results showed.]
+
+**Developing the visual:** [Why you chose this chart type, design choices (colors, labels, highlighting), and how you wrote the assertion headline.]
+
+![[Caption for slide 1]](slide1.png)
+
+## Question 2: [Write the question]
+
+**Why it's interesting:** [...]
+
+**Excel analysis:** [...]
+
+**Developing the visual:** [...]
+
+![[Caption for slide 2]](slide2.png)

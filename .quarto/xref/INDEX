@@ -16,5 +16,8 @@
   },
   "resume.qmd": {
     "resume.html": "63aa281a"
+  },
+  "posts/data-visualization/index.qmd": {
+    "index.html": "7b48112c"
   }
 }

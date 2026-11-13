@@ -7,11 +7,39 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Carson Hinz",
+    "objectID": "posts/data-visualization/index.html",
+    "href": "posts/data-visualization/index.html",
+    "title": "Beyond the Box Score",
     "section": "",
-    "text": "I am an Industrial Engineering student at the University of Arkansas, expected to graduate in 2029. I am currently taking classes to enhance my skills in R, Excel, and Github. After I finsh my degree I plan to work in Software and AI consulting."
+    "text": "Carson Hinz\nWatson Spear\nBrandon Bright\nLuke Anet"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#team-members",
+    "href": "posts/data-visualization/index.html#team-members",
+    "title": "Beyond the Box Score",
+    "section": "",
+    "text": "Carson Hinz\nWatson Spear\nBrandon Bright\nLuke Anet"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#data-set",
+    "href": "posts/data-visualization/index.html#data-set",
+    "title": "Beyond the Box Score",
+    "section": "Data Set",
+    "text": "Data Set\n[What the data is, where it came from (link the source), how many records/what variables, and any cleaning you did.]"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#question-1-write-the-question",
+    "href": "posts/data-visualization/index.html#question-1-write-the-question",
+    "title": "Beyond the Box Score",
+    "section": "Question 1: [Write the question]",
+    "text": "Question 1: [Write the question]\nWhy it’s interesting: [Why your team cared about this question.]\nExcel analysis: [Functions/tools used, e.g., pivot tables, SUMIFS, AVERAGEIFS, sorting/filtering, and what the results showed.]\nDeveloping the visual: [Why you chose this chart type, design choices (colors, labels, highlighting), and how you wrote the assertion headline.]\n\n\n\n[Caption for slide 1]"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#question-2-write-the-question",
+    "href": "posts/data-visualization/index.html#question-2-write-the-question",
+    "title": "Beyond the Box Score",
+    "section": "Question 2: [Write the question]",
+    "text": "Question 2: [Write the question]\nWhy it’s interesting: […]\nExcel analysis: […]\nDeveloping the visual: […]\n\n\n\n[Caption for slide 2]"
   },
   {
     "objectID": "about.html",
@@ -19,6 +47,13 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carson Hinz",
+    "section": "",
+    "text": "I am an Industrial Engineering student at the University of Arkansas, expected to graduate in 2029. I am currently taking classes to enhance my skills in R, Excel, and Github. After I finsh my degree I plan to work in Software and AI consulting.\n\ngit remote add origin https://github.com/carsonhinz/carsonhinz.github.io.git"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -32,6 +67,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond the Box Score\n\n\nAn Excel analysis of NFL game data exploring home field advantage, game-time weather, and how oddsmakers react to wind.\n\n\n\nCarson Hinz, Watson Spear, Brandon Bright, Luke Anet\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
