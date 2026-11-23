@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "posts/data-visualization/index.html",
     "href": "posts/data-visualization/index.html",
     "title": "Beyond the Box Score",
     "section": "",
-    "text": "Has home field advantage changed over time? We chose this question because this is one of the most known edges in sports, but does it still matter as much as it used to. We saw a significant drop off in average home win margin at the end of the 2019 season into the 2020 season due to the stadiums being empty from COVID. For each season from 1999 to 2025, we used COUNTIFS to count the games played and AVERAGEIFS to find the average home margin of victory. We used a time series line chart because it clearly shows change from season to season. We added a dashed line marking the 2.39-point average and labeled the 2019 low point.\n\nWhich teams are most favored when playing at home? A lot of stadiums are notorious for being hard to play. We wanted to see which teams oddsmakers actually expect to win at home. For each team, we used COUNTIFS to count home games and AVERAGEIFS to find the team’s average point spread at home. The New England Patriots were the most favored at home and the Browns, Raiders, Cardinals, and Jets were underdogs at home on average. We used a horizontal bar chart to visualize this. It is sorted from highest to lowest, highlighted the top.\n\nHow cold or hot are NFL games? The NFL season starts in August and ends in February. They play in cities from Minneapolis to Dallas and New York to L.A. So we wanted to know what conditions a typical game is actually played in. We created 10°F temperature bins from −10°F to 110°F and used COUNTIFS to count how many games were in each bin. We chose a histogram because it shows the shape of the entire temperature distribution rather than just one average.\n\nDo oddsmakers expect fewer points when it is windy? Wind affects a lot of different outcomes in a football game. Passing and kicking accuracy becomes much harder so you’d expect the windy days to be lower scoring. The game total over/under lines tell you exactly how much the oddsmakers think the teams are going to score. The line has a slight trend downward but not to much. This may be because of the shift most teams are making to an indoor stadium. To make the pattern clearer, we grouped games into wind ranges and used COUNTIFS and AVERAGEIFS to find the average over/under in each range. We added a linear trendline to show the overall direction, and placed a table of average over/under lines by wind range beside the chart so the small drop is easy to see."
+    "text": "Has home field advantage changed over time? We chose this question because this is one of the most known edges in sports, but does it still matter as much as it used to. We saw a significant drop off in average home win margin at the end of the 2019 season into the 2020 season due to the stadiums being empty from COVID. For each season from 1999 to 2025, we used COUNTIFS to count the games played and AVERAGEIFS to find the average home margin of victory. We used a time series line chart because it clearly shows change from season to season. We added a dashed line marking the 2.39-point average and labeled the 2019 low point.\n\nWhich teams are most favored when playing at home? A lot of stadiums are notorious for being hard to play. We wanted to see which teams oddsmakers actually expect to win at home. For each team, we used COUNTIFS to count home games and AVERAGEIFS to find the team\u2019s average point spread at home. The New England Patriots were the most favored at home and the Browns, Raiders, Cardinals, and Jets were underdogs at home on average. We used a horizontal bar chart to visualize this. It is sorted from highest to lowest, highlighted the top.\n\nHow cold or hot are NFL games? The NFL season starts in August and ends in February. They play in cities from Minneapolis to Dallas and New York to L.A. So we wanted to know what conditions a typical game is actually played in. We created 10\u00b0F temperature bins from \u221210\u00b0F to 110\u00b0F and used COUNTIFS to count how many games were in each bin. We chose a histogram because it shows the shape of the entire temperature distribution rather than just one average.\n\nDo oddsmakers expect fewer points when it is windy? Wind affects a lot of different outcomes in a football game. Passing and kicking accuracy becomes much harder so you\u2019d expect the windy days to be lower scoring. The game total over/under lines tell you exactly how much the oddsmakers think the teams are going to score. The line has a slight trend downward but not to much. This may be because of the shift most teams are making to an indoor stadium. To make the pattern clearer, we grouped games into wind ranges and used COUNTIFS and AVERAGEIFS to find the average over/under in each range. We added a linear trendline to show the overall direction, and placed a table of average over/under lines by wind range beside the chart so the small drop is easy to see."
   },
   {
     "objectID": "about.html",
@@ -28,17 +21,10 @@
     "text": "I am an Industrial Engineering student at the University of Arkansas, expected to graduate in 2029. I am currently taking classes to enhance my skills in R, Excel, and Github. After I finsh my degree I plan to work in Software and AI consulting.\n\ngit remote add origin https://github.com/carsonhinz/carsonhinz.github.io.git"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond the Box Score\n\n\nA 26 season anaylsis of deeper nfl analytics\n\n\n\nCarson Hinz, Watson Spear, Brandon Bright, Luke Anet\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O\u2019Malley\n\n\nSep 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond the Box Score\n\n\nA 26 season anaylsis of deeper nfl analytics\n\n\n\nCarson Hinz, Watson Spear, Brandon Bright, Luke Anet\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
