@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googlea18a452af8b00aed.html
 
 website:
   title: "Carson Hinz"
