@@ -9,7 +9,7 @@ about:
       href: https://github.com/carsonhinz
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/carson-hinz-90563b304
+      href: https://linkedin.com/in/carsonhinz
     - icon: inboxes
       text: Contact
       href: mailto:chinz@uark.edu
