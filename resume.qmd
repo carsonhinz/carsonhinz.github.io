@@ -2,6 +2,6 @@
 title: "Resume"
 ---
 
-<iframe width="800" height="1000" src="Carson_Hinz_Resume.pdf">
+<p><a href="Carson_Hinz_Resume.pdf?v=2" class="btn btn-primary" download>Download Resume (PDF)</a></p>
 
-</iframe>
+<img src="resume.png?v=2" alt="Carson Hinz Resume" style="width:100%; max-width:850px; border:1px solid #ddd; box-shadow:0 2px 8px rgba(0,0,0,.1);">
